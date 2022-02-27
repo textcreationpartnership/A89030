@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent to the King by Sir Jo. Meldrum.</title>
+            <author>Meldrum, John, Sir, d. 1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89030</idno>
+            <idno type="STC">Wing M1640</idno>
+            <idno type="STC">Thomason E123_3</idno>
+            <idno type="STC">ESTC R15324</idno>
+            <idno type="EEBO-CITATION">99859841</idno>
+            <idno type="PROQUEST">99859841</idno>
+            <idno type="VID">111940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111940)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E123[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent to the King by Sir Jo. Meldrum.</title>
+                  <author>Meldrum, John, Sir, d. 1645.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 18. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111940:1"/>
+            <pb facs="tcp:111940:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER Sent to the KING BY Sir Jo. Meldrum.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Joſeph Hunſcott. Octob.</hi>
+18. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="copy_of_letter">
+            <pb facs="tcp:111940:2"/>
+            <pb n="3" facs="tcp:111940:2"/>
+            <opener>
+               <salute>Most Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is held a common Tenet, That an Apologie doth imply an offence; Whereof if I were conſcious to my ſelf in the leaſt breach of Allegiance, due to Soveraignty, I would not bluſh in the ingenious acknowledge<g ref="char:EOLhyphen"/>ment of my guiltineſſe; but would (in all humility) throw my ſelf down at Your Majeſties feet, though culpable in nothing elſe (ſo far as my conſcience doth ſuggeſt) but of a great averſeneſſe in diſpoſition, and a great reluctation I have had within my ſelf, againſt all the late proceedings have been attempted in Your Majeſties Service; which (if it ſhould be found criminall) there are not many of Your Majeſties beſt adviſed and beſt affected ſubjects or ſervants of any quality, who ſtand either for the glory of God, The Honour of Your Maieſty, or, The peace and happineſſe of the Kingdom, who <hi>(in foro conſcientiae)</hi> can plead guiltleſſe in that point: And if there be any of a contrary ſenſe (who are conſiderable) It will appear (upon a ſtrict ſearch) That flattery, ſpleen, or emulation, hath rather tranſported them then any thing elſe, will be found eſſentiall, to make ſuch a breach as the Kingdom is threatned with; which (unprevent<g ref="char:EOLhyphen"/>ed) may bury them and their poſterities in the ruines thereof. The Zeal I have had to Your Maieſties Fathers Service in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> in ſetling the Province of
+<hi>
+                  <g ref="char:V">Ʋ</g>lſter;</hi> and to Your own Ser<g ref="char:EOLhyphen"/>vice at <hi>Rochell</hi> (which in my time hath had no example) will <pb n="4" facs="tcp:111940:3"/> vindicate me from any aſperſion may be caſt upon me, either of ingratitude, or diſloyalty: And that all Your Maieſties favours have produced no other effects to me, but to have been made the ſubiect of all calumnies, and detraction, that malice could brand me with, and a deep engagement in 2000<hi rend="sup">
+                  <abbr>l</abbr>
+               </hi> debt, after the ſpending of 36 yeers of time in Your Maieſties Fathers and Your own Service. I did adventure upon a great free<g ref="char:EOLhyphen"/>dome of diſcourſe with Your Maieſty at <hi>Newcaſtle,</hi> upon the ſubiect of War; which if it had taken any impreſſion (ſutable to the ſincerity of my heart) as a buſineſſe of ſo high a Nature did require, Your Maieſty might have avoyded many unhappy accidents which have encountred all Your Attempts ſince that time; which cannot be interpreted to have ſprung from any other ſource, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n from the raſhneſſe, arrogancy, and ambition of ſome preſumptuous ſpirits, who have drawn Your Maieſty upon ruinous Precipices, which could not but bring forth the like wretched effects: Their aym was at nothing ſo much, as at the diſgrace and overthrow of all Your Maieſties well-affected and loyall ſubiects and ſervants, who were not ſtamped with the Character of the time; and to engage Your Maieſty in their unhappy Intereſts of ambition, gain, malice, revenge, deſpair, and emulation; as if Your Maieſties Crowns, and their deſpe<g ref="char:EOLhyphen"/>rate Fortunes, had had but one and the ſame Center; as if both had been caſt in one Ballance, to ſtand or fall, in the diſtractions of the times. When I did look upon the lamentable poſture of three Kingdomes, reduced to a great height of deſolation and miſery: When I did perceive that no corner in all Your Dominions that could afford one good man, that was ſenſible of the purity of Religion towards God, of the Honour, Peace, and Safety of Your Maieſty and Kingdoms; who did not groan under the exorbitances of the time: And when there was ſmall probability (unleſſe by miracle) that Your Maieſties Diadems could retayn that ancient luſtre and beauty, nor thoſe <hi>Halcyon</hi> dayes of publike proſperity Your loving ſubiects and their Anceſtors had formerly enioyed, under the Raigns of your Royall Progenitors (whilſt they kept a regular courſe of Go<g ref="char:EOLhyphen"/>vernment with their Parliaments.) I could finde no better way to do Your Maieſty a more agreeable Service, then by ſtopping
+<pb n="5" facs="tcp:111940:3"/> the courſe of a Civill War, ſo far as could fall within the com<g ref="char:EOLhyphen"/>paſſe of my endeavour, to embrace any fit opportunity offered (as to caſt my ſelf within <hi>Hull</hi>) whereby my real and affection to the publike good might be demonſtrated, in a ſervice for the common Intereſt of Your Maieſty and the Kingdom; which whoſoever ſhall go about to ſeparate, cannot but expect ſuch fearfull events as ordinarily do accompany all ſuch, who would entertain and foſter a wofull Divorcement betwixt a Prince and his People; a wretched div<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion betwixt the head and the mem<g ref="char:EOLhyphen"/>bers; which (of neceſſity) muſt bring forth prodigious iſſues, as may not onely ſhake the foundation of Monarchy, but alſo overflow the fertile and pleaſant fields and valleyes of this Kingdome with ſtreams of innocent blood, which might be more ſafely reſerved for more advantagious, and more honora<g ref="char:EOLhyphen"/>ble employments, then profuſedly ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, in the ripping up of the bowells one of another, of Your Maieſties good ſubiects, by an inteſtine War, which will divide the father from the ſon, the brother from the brother, and the neereſt kinſman from his deareſt friend; and that (which is moſt deplorable) the ground of the War muſt ariſe from the unſetled and unconſtant appe<g ref="char:EOLhyphen"/>tites of ſome factious and turbulent ſpirits, overladed with the bitterneſſe of their own paſſions and intereſt, and at ſuch an unſeaſonable time, when a more iuſt, and a more honourable ſubiect for a War, cannot be long wanting, if the unſeaſona<g ref="char:EOLhyphen"/>ble diſtempers of the time could allow your Maieſties good ſubiects a little time to breathe in the calm ayr, and happineſſe of a bleſſed peace, untill ſuch time as
+<hi>France</hi> and <hi>Spain</hi> (by their mutuall claſhings) have ſo far debilitated each other, that both might run the hazard to be made the Stage for Your Ma<g ref="char:EOLhyphen"/>ieſties juſt indignation, provoked by the affronts have been put upon Your Maieſties Father and Your Self, in the uniuſt detention of the Patrimony of a Grand-childe of this Crown, if there were a happy attonement with Your Maieſties loving ſub<g ref="char:EOLhyphen"/>iects, ſtrongly cemented by a ſtrict correſpondency with the <hi>Ne<g ref="char:EOLhyphen"/>therland</hi> Provinces, whoſe friendſhip or immunity may do more good or hurt to theſe kingdoms, then the friendſhip or immunity of <hi>France</hi> and <hi>Spain</hi> ioyned together. The miſerable ſenſe of that War in <hi>Italy,</hi> by the pertinacious obſtinacy of <hi>Charls</hi> the eighth, <pb n="6" facs="tcp:111940:4"/> which was ſtirred up and fomented by the ignorance and ambi<g ref="char:EOLhyphen"/>tion of that proud Prelate, the Biſhop of S. <hi>Malo,</hi> which did draw on his ſhamefull expulſion out of <hi>Italy,</hi> at the expence of his reputation, and hazard of his life: The deplorable event of that War, violently proſecuted by <hi>Charls</hi> the more hardy then wiſe Duke of
+<hi>Burgundy,</hi> againſt the <hi>Swiſſes,</hi> which had no other ground but unmeaſurable ambition, and the refuſall of redreſſe to ſome of the <hi>Swiſſes,</hi> who had but a Cart full of Sheep-skins taken iniuriouſly from them, going to their Mar<g ref="char:EOLhyphen"/>ket, by the Count of
+<hi>Romont,</hi> which was paid home by the loſſe of his Baggage, by the loſſe of his reputation, by the loſſe of his Family (which for four Generations, had ſtood in com<g ref="char:EOLhyphen"/>peti ion with the Emperour, and the French King) and in the end, by loſſe of his life. The vaſt and profuſe conſumption of more men and money, ſpent by the King of <hi>Spain</hi> in that <hi>Bel<g ref="char:EOLhyphen"/>gick</hi> War, then might have reduced <hi>Italy</hi> and
+<hi>France</hi> to that <hi>Austrian</hi> ſervitude (aſpired unto by
+<hi>Charls</hi> the fifth, aiming at a fifth Monarchy) which if it had in time been nipped in the bud, might have been eaſily prevented, by hearing the humble Petitions of a handfull of his ſubiects, oppreſſed with the Ty<g ref="char:EOLhyphen"/>ranny of the Spaniſh Government, may ſerve as example of terrour to all great Princes, who (at the appetites of their ſer<g ref="char:EOLhyphen"/>vants) will embark themſelves in ſuch extricable errours, as are often accompanied with ſudden and unfortunate events. Ma<g ref="char:EOLhyphen"/>ny great and honorable Actions have been brought to hap<g ref="char:EOLhyphen"/>py and, glorious concluſions, by Princes who have relyed up<g ref="char:EOLhyphen"/>on the valour and affection of their loving ſubiects; which (be<g ref="char:EOLhyphen"/>ing wanting) the examples of good ſucceſſe have been no leſſe rare, then of black Swans, either in ancient or modern Stories. The hearty acclamations of joy at Your Fathers entry to the Crown of <hi>England,</hi> the publike exultations at Your Maieſties ſafe return from <hi>Spain,</hi> will challenge a more kindely retribu<g ref="char:EOLhyphen"/>tion, then the expoſing of the Fortunes and lives of Your good ſubiects to the inhumane butcheries of an inteſtine War, which (like a
+<hi>Gangrene</hi>) hath already over-run the greateſt part of
+<hi>Europe,</hi> and may (by the revolution of time, whereunto all ſub<g ref="char:EOLhyphen"/>lunary things are ſubiect) kindle ſuch a fire here amongſt Your good ſubiects, which wil not be quickly extinguiſhed, by all the <pb n="7" facs="tcp:111940:4"/> plots &amp; practices of the time, nor without ſome hazards to your Scepters. Eſpecially when ſtrangers (being invited by our diſtra<g ref="char:EOLhyphen"/>ctions) if they have power, ambition, and ſence of revenge, may endeavour to be ſharers with Your Ma<hi rend="sup">ties</hi> good Subjects, in the felicities of this Iland, as the onely place in <hi>Europe,</hi> which hath been long exempted from the thraldom and bondage of War, which undoubtedly they would have attempted before this time, if God (in his gracious providence and care of this Iland) had not ſuffered <hi>France</hi> and <hi>Spain</hi> to be deeply embarqued over head and ears: The common quarrell of invaſion which Princes never forget, if they can finde an opportunity to remember, The Jeſuitick plots to extirpate the whole body of Proteſtants in this Iland, which (as it was in former times, the onely ſafe Sanctuary and protection of all that ſuffered under the tyranny of <hi>Rome</hi>) may (by theſe Machinations, rooted here too deeply) become a Cage for unclean birds to neſtle therein, and diſturb the peace of theſe Kingdoms, as a powerfull effect of too much implicite truſt put in ſome, who will prove in the end Your Majeſties greateſt enemies, and of too much neglect of others, who will be found the beſt ſupporters of the dignity of Your Perſon, and Crowns. And if there be a War really intended, there is a neceſſity of a more ſolid foundation then the prote<g ref="char:EOLhyphen"/>ction of evil and unadviſed Miniſters, whom Your Majeſties Predeceſſour <hi>Henry</hi> the fourth of <hi>England,</hi> would have rather offred up as publike Victims to an offended Commonwealth, then that three Kingdoms ſhould lye pitifully expoſed to the hazards of a publike conflagration; which God in his mercy avert: I muſt rather accompt him an ignorant Mountebank then a skillfull Phiſitian, who adviſeth his patient to apply a more violent remedy, then the nature of the diſeaſe will com<g ref="char:EOLhyphen"/>port with, orherwiſe the remedy may prove worſt then the diſeaſe: Nor ſhall I ever accompt him for a faithfull ſervant, who perſwadeth his Maſter to imbrace any action, which may more conduce to the advancement of any private intereſt of ambition, gain, malice, revenge, deſpaire, or emulation, then to the ſafety of his Maſters repuatiton and honour: Your Majeſty doth well know, the different Characters antiquity hath put upon the two favorites of <hi>Alexander, Hepheſtion</hi> and <pb n="8" facs="tcp:111940:5"/>
+               <hi>Craterus,</hi> the one loved <hi>Alexander</hi> out of conſcience, duty, zeale, and love as his Soveraign, the other loved the King for his magnificence, pompe, glory, and power; <hi>Alexander</hi> had to raiſe his fortune, and to make him great, not unlike to the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egionary Souldiers that followed <hi>Germanicus,</hi> recorded by <hi>Tacitus,</hi> to have ſaid
+<hi>fortunam meum potius quam me forebatis,</hi> or ſuch Court
+<hi>Paraſits,</hi> who do rather look upon the fortunes, then perſons of great Princes: I pray God Your Majeſty have not too many of the one, and too few of the other kinde of Servants; Pardon Dread Soveraign this freedom of ſpirit, which no extremity, no power, no puniſhment can reſtrain, And which cannot but burſt forth in this exceſſe of paſſion and grief, to ſee Your Majeſty ſo inclinable to give way to all ſuch courſes, which can preſage no leſſe then a fearfull revolation, if Your Maieſty ſhould continue in a conſtant courſe of being inexorable to the perſwaſions, counſells, and petitions of Your loving Subiects, inviting Your Maieſty to adhere to your great Councell of Parliament, who are only able to make Your maieſty no leſſe happy &amp; glorious then any of your Royall Progenitors: God grant that in end, Your Maieſty may be ſenſible of the Common callamities your good Sebiects are involved in, and that ſome proper occaſion may be repreſented, whereby every true and loyall Subiect may be encouraged, to offer up his ſacrifice of blood, for the honour and ſafety of Your Maieſty and your whole Dominions, whereof none ſhall be more prodigall Then</p>
+            <closer>
+               <signed>Your Majeſties moſt humble and faithfull Servant, <hi>JO. MELDRUM.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111940:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
